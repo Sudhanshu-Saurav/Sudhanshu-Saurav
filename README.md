@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sudhanshu-Saurav
-- 👀 I’m interested in Learning new programming languages associated with DATA SCIENCE.
-- 🌱 I’m currently learning Python and c++
+- 👀 I’m interested in Learning new tech.
+- 🌱 I’m currently working as Associate consultant at AWS
 - 📫 Email reach me - kr.sudhanshu123@gmail.com 
 
 <a href="https://www.linkedin.com/in/sudhanshu-saurav/">Linked In</a>
